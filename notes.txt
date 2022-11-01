@@ -1,0 +1,7 @@
+Note : The function graph might be wrong because our domain and range both are whole numbers so we can't create solid lines to join the points as that indicates decimal numbers are possible in both x and y which doesn't make sense in the context of this question
+
+Q1. How is MAX number limiting the range and can we calculate it accordingly?
+Q2. What is the general function of these graphs if I want the input (x) to be the serial number and output (y) to be the number of time perfect squares occur?
+Q3. How are these graphs transforming depending on the MAX limit of numbers for each round?
+Q4. What happens if we change the domain (i.e. number of players)?
+Q5. If we keep removing players if they dont say buzz on the correct number. How can we calculate y then with taking into account number of mistakes that happened (i.e. number of players removed)?
